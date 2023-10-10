@@ -4,5 +4,6 @@ During my journey to become a junior I have worked with and studied the followin
 - Javascript (NodeJS, ExpressJS, React)
 - Mongoose / MongoDB
 - C#
+- SQL
 
 I am more than excited to learn, improve and develop in both hard and soft skills in the next upcoming years and beyond.
