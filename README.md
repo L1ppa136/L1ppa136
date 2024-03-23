@@ -1,9 +1,9 @@
-Studying as a Fullstack Developer since 2023 February. Before switching careers, I have gained more than 10 years of experience in automotive Quality Engineering along with 4 years as team / group leader.
+Currently working as a System Analyst for Innoveo, configuring applications using company's own low-code platform.
 
-During my journey to become a junior I have worked with and studied the following technologies:
+Familiar with the following technologies:
 - Javascript (NodeJS, ExpressJS, React)
-- Mongoose / MongoDB
-- C#
-- SQL
+- NoSQL (Mongoose / MongoDB)
+- C# (Identity, Entity Framework, LINQ, WebAPI, etc.)
+- SQL (MySQL, PostgreSQL)
 
 I am more than excited to learn, improve and develop in both hard and soft skills in the next upcoming years and beyond.
